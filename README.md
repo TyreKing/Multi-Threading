@@ -1,4 +1,5 @@
 # Multi-Threading
+This program is used to run multiple threads at the same time to read and write to a file.
 <div>
   <p>
     <strong>MED_Tester</strong> Launches multiple threads that simultaneously read and write to the stringdatabase library. Serializes data to a file (with and without encryption)
